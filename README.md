@@ -24,8 +24,8 @@
 
 
 #### Coding Stats
-<!--START_SECTION:waka-->
 
+<!--START_SECTION:waka-->
 <!--START_SECTION:waka-->
 
 
