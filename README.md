@@ -22,5 +22,12 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vincedaniel08.vincedaniel08)
 
+
+#### Coding Stats
+<!--START_SECTION:waka-->
+
+<!--START_SECTION:waka-->
+
+
 #### Github Stats
 ![Vince Daniel's github stats](https://github-readme-stats.vercel.app/api?username=vincedaniel08&count_private=true&theme=tokyonight&hide=contribs,prs)
