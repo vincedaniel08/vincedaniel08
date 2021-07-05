@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Freelancer and Full-Stack Developer .
+#### I'm a Freelancer.
 
 ##### NOW
 
