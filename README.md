@@ -26,7 +26,7 @@
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 #### Github Stats
