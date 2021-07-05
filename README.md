@@ -18,3 +18,6 @@
 - 💬 Ping me about **design**, **branding**, **logical**, **development**, **design thinking**
 - ⚡️ Fun fact: I'm a huge fan of One Piece
 
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vincedaniel08.vincedaniel08)
