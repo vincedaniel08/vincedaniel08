@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**vincedaniel08/vincedaniel08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Freelancer and Full-Stack Developer .
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Crafted last [Shopping App](https://github.com/vincedaniel08/TechwareMobileApp) Mobile App;
+
+
+##### BIO
+
+- 🏢 I'm currently studying at **Bulacan State University**
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.java`, `.psd`, `.prpproj`
+- 🌍 I'm mostly active within the **React Community**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **design**, **branding**, **logical**, **development**, **design thinking**
+- ⚡️ Fun fact: I'm a huge fan of One Piece
