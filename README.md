@@ -28,5 +28,5 @@
 
 ![Vince Daniel's github stats](https://github-readme-stats.vercel.app/api?username=vincedaniel08&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincedaniel08&layout=compact)](https://github.com/vincedaniel08/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincedaniel08&layout=dark)](https://github.com/vincedaniel08/github-readme-stats)
 
