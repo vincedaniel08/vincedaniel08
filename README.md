@@ -22,18 +22,13 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vincedaniel08.vincedaniel08)
 
-
-#### Coding Stats
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 [![vincedaniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bit)](https://github.com/vincedaniel08/github-readme-stats)
 
 
-#### Github Stats
 ![Vince Daniel's github stats](https://github-readme-stats.vercel.app/api?username=vincedaniel08&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 
-#### 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincedaniel08&layout=compact)](https://github.com/vincedaniel08/github-readme-stats)
 
