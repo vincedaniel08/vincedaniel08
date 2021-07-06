@@ -34,3 +34,8 @@ No Activity tracked this Week
 
 #### Github Stats
 ![Vince Daniel's github stats](https://github-readme-stats.vercel.app/api?username=vincedaniel08&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+
+#### 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincedaniel08&layout=compact)](https://github.com/vincedaniel08/github-readme-stats)
+
