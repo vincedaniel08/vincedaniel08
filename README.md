@@ -26,10 +26,8 @@
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
+[![vincedaniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bit)](https://github.com/vincedaniel08/github-readme-stats)
 
 
 #### Github Stats
