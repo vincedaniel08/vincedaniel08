@@ -20,7 +20,7 @@
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vincedaniel08.vincedaniel08)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vincedaniel08)
 
 <!--START_SECTION:waka-->
 ```text
