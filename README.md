@@ -15,7 +15,7 @@
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.java`, `.psd`, `.prpproj`
 - 🌍 I'm mostly active within the **React Community**
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **logical**, **development**, **design thinking**
+- 💬 Ping me about **design**, **branding**, **logical**, **development**, **design thinking**, **programming**
 - ⚡️ Fun fact: I'm a huge fan of One Piece
 
 #### Profile Visits 
