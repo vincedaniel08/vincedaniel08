@@ -12,7 +12,7 @@
 ##### BIO
 
 - 🏢 I'm currently studying at **Bulacan State University**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.java`, `.psd`, `.prpproj`, `.c#`
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.java`, `.psd`, `.prpproj`, `.cs`, `.js`
 - 🌍 I'm mostly active within the **React Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **branding**, **logical**, **development**, **design thinking**, **programming**
