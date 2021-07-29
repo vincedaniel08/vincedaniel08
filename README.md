@@ -24,7 +24,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-C#   7 hrs           █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 ![Vince Daniel's github stats](https://github-readme-stats.vercel.app/api?username=vincedaniel08&theme=dark&show_icons=true)
