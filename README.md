@@ -24,7 +24,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML         3 mins          █████████▒░░░░░░░░░░░░░░░   37.26 % 
+JavaScript   3 mins          ████████▓░░░░░░░░░░░░░░░░   35.27 % 
+JSON         2 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.27 % 
 ```
 <!--END_SECTION:waka-->
 ![Vince Daniel's github stats](https://github-readme-stats.vercel.app/api?username=vincedaniel08&theme=dark&show_icons=true)
