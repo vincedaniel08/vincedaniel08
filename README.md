@@ -8,7 +8,6 @@
 
 - ✨ Crafted last [Agrishop](https://github.com/vincedaniel08/AgriShopEcommerce) Ecommerce;
 
-
 ##### BIO
 
 - 🏢 I'm currently studying at **Bulacan State University**
