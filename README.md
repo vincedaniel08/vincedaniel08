@@ -33,7 +33,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   16 hrs 49 mins  █████████████████████████   100.00 % 
+JavaScript   20 hrs 41 mins  ████████████████████████▓   99.25 % 
+JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 <!--END_SECTION:waka-->
 ![Vince Daniel's github stats](https://github-readme-stats.vercel.app/api?username=vincedaniel08&theme=dark&show_icons=true)
