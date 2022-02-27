@@ -26,10 +26,13 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vincedaniel08.vincedaniel08)
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   5 hrs           ████████████████████████▒   96.69 % 
-JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+JavaScript   5 hrs           ████████████████████████▒   96.69 %
+JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
+
 <!--END_SECTION:waka-->
 ![Vince Daniel's github stats](https://github-readme-stats.vercel.app/api?username=vincedaniel08&theme=dark&show_icons=true)
 
