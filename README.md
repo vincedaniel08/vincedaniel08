@@ -37,7 +37,6 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 [![Vince Daniel's github stats](https://github-readme-stats.vercel.app/api?username=vincedaniel08&theme=blue-green)](https://github.com/vincedaniel0/github-readme-stats)
 
-[![vincedaniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Bit)](https://github.com/vincedaniel08/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/vincedaniel08/github-readme-stats)
 
