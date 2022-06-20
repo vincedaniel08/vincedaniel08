@@ -15,16 +15,13 @@
 
 
 
-
-
-
-
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vincedaniel08.vincedaniel08)
 
 <hr />
-### The Tools I use
+
+#### The Tools I use
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>
