@@ -13,10 +13,10 @@
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=vincedaniel08.vincedaniel08)
 - ✨ Crafted last [DC Monorack](https://dcmonorack.netlify.app) Ecommerce;
-- 🔭 I’m working on **cross-platform applications with React Native**.
-- 🌱 I’m currently learning **TypeScript**, **GraphQL** and **TensorFlow.js**.
-- 👨‍💻 All of my public speaking is available at [my talks page](https://davidl.fr/talks).
-- 💬 Ask me about **React, React Native,** and **Automation Hacks** <a href="https://twitter.com/intent/follow?screen_name=flexbox_" target="_blank"> on Twitter!</a>
+- 🔭 I’m working on **Front End Developer**.
+- 🌱 I’m currently learning **API**, **Docker** and **Ant Design**.
+- 👨‍💻 All of my public speaking is available at [my talks page](https://vincedaniel.netlify.app).
+- 💬 Ask me about **React, React Native,** and **Programming** <a href="https://twitter.com/intent/follow?screen_name=flexbox_" target="_blank"> on Twitter!</a>
 
 
 
