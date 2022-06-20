@@ -16,7 +16,7 @@
 - 🔭 I’m working on **Front End Developer**.
 - 🌱 I’m currently learning **API**, **Docker** and **Ant Design**.
 - 👨‍💻 All of my public speaking is available at [my talks page](https://vincedaniel.netlify.app).
-- 💬 Ask me about **React, React Native,** and **Programming** <a href="https://twitter.com/intent/follow?screen_name=flexbox_" target="_blank"> on Twitter!</a>
+- 💬 Ask me about **React, React Native,** and **Programming** <a href="https://twitter.com/intent/follow?screen_name=bit_" target="_blank"> on Twitter!</a>
 
 
 
@@ -66,5 +66,4 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincedaniel08&theme=blue-green)](https://github.com/vincedaniel08/github-readme-stats)
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=vincedaniel08&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
