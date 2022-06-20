@@ -34,7 +34,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="32" height="32"/>
 
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="32" height="32"/>
-  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-official.svg" alt="cloudflare" width="32" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg" alt="cloudflare" width="32" height="32"/>
 
 <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="32" height="32"/>
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="32" height="32"/>
