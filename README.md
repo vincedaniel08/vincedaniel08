@@ -43,5 +43,5 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/vincedaniel08/github-readme-stats)
 
-[![Vince Daniel's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/vincedaniel08/github-readme-streak-stats)
+[![Vince Daniel's github streak](https://github-readme-streak-stats.herokuapp.com/?user=vincedaniel08&theme=blue-green)](https://github.com/vincedaniel08/github-readme-streak-stats)
 
