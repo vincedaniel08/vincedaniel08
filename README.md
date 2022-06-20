@@ -12,7 +12,7 @@
 [![Mail Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/bitvideos)
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=vincedaniel08.vincedaniel08)
-- ✨ Crafted last of our team[DC Monorack](https://dcmonorack.netlify.app) Ecommerce;
+- ✨ Crafted last of our team [DC Monorack](https://dcmonorack.netlify.app) Ecommerce;
 - 🔭 I’m working on **Front End Developer**.
 - 🌱 I’m currently learning **API**, **Docker** and **Ant Design**.
 - 👨‍💻 All of my public speaking is available at [my talks page](https://vincedaniel.netlify.app).
