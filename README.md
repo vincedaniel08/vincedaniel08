@@ -42,5 +42,5 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincedaniel08&theme=blue-green)](https://github.com/vincedaniel08/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vincedaniel08&repo=https://github.com/vincedaniel08/MERN-Stack&theme=blue-green)](https://github.com/vincedaniel08/MERN-Stack)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=vincedaniel08&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
