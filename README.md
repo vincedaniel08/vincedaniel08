@@ -42,5 +42,5 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincedaniel08&theme=blue-green)](https://github.com/vincedaniel08/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vincedaniel08&repo=github-readme-stats)](https://github.com/vincedaniel08/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vincedaniel08&repo=github-readme-stats&theme=blue-green)](https://github.com/vincedaniel08/github-readme-stats)
 
