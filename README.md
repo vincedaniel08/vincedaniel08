@@ -4,7 +4,8 @@
 :mailbox: Reach me out!
  
 [![Mail Badge](https://img.shields.io/badge/-@garabitbit-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/garabitbit)
-[![Mail Badge](https://img.shields.io/badge/-vincedaniel080808-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vincedaniel080808@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](mailto:vincedaniel080808@gmail.com)
 [![Mail Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]
 [![Mail Badge](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]
 [![Mail Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
@@ -15,8 +16,6 @@
 
 
 
-
-https://github-readme-streak-stats.herokuapp.com/?user={vincedaniel08}
 
 
 ##### BIO
