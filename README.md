@@ -2,8 +2,6 @@
 ## Hi I'm Vince Daniel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" height="20px" alt="hi">
 
 :mailbox: Reach me out!
-<br/>
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=vincedaniel08.vincedaniel08)
  [![Mail Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vincedaniel.netlify.app)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:vincedaniel080808@gmail.com)
@@ -12,7 +10,12 @@
 [![Mail Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/BitTechie)
 [![Mail Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/bitvideos)
 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=vincedaniel08.vincedaniel08)
 - ✨ Crafted last [DC Monorack](https://dcmonorack.netlify.app) Ecommerce;
+- 🔭 I’m working on **cross-platform applications with React Native**.
+- 🌱 I’m currently learning **TypeScript**, **GraphQL** and **TensorFlow.js**.
+- 👨‍💻 All of my public speaking is available at [my talks page](https://davidl.fr/talks).
+- 💬 Ask me about **React, React Native,** and **Automation Hacks** <a href="https://twitter.com/intent/follow?screen_name=flexbox_" target="_blank"> on Twitter!</a>
 
 
 
