@@ -40,7 +40,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32"/>
 </p>
 
-
 <!--START_SECTION:waka-->
 
 ```text
