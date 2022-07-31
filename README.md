@@ -14,6 +14,11 @@
 [![Mail Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/bitvideos)
  <!-- - 🔭 I’m working on **ed-care** as **Front End Developer**. -->
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=vincedaniel08.vincedaniel08)
+ 
+ <a href="https://www.youtube.com/channel/[BitTechie]">
+ <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=[BitTechie]&key=[YOUR API KEY]"/>
+</a>
+
 - ✨ Crafted last of our team [DC Monorack](https://dcmonorack.netlify.app) Ecommerce;
 - 🌱 I’m currently learning **API**, **Docker** and **Ant Design**.
 - 👨‍💻 All of my public speaking is available at [my talks page](https://vincedaniel.netlify.app).
