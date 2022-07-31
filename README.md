@@ -13,11 +13,14 @@
 [![Mail Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/BitTechie)
 [![Mail Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/bitvideos)
  <!-- - 🔭 I’m working on **ed-care** as **Front End Developer**. -->
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=vincedaniel08.vincedaniel08)
  
-<a href="https://www.youtube.com/c/BitTechie">
+ <a href="https://www.youtube.com/c/BitTechie">
  <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCrNFKNo8y7ndK777jFFSy6A&key=AIzaSyBgwnVnSu1aUTVGmSxec1m_jeHC3tEnJFY"/>
 </a>
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=vincedaniel08.vincedaniel08)
+ 
+
 
 - ✨ Crafted last of our team [DC Monorack](https://dcmonorack.netlify.app) Ecommerce;
 - 🌱 I’m currently learning **API**, **Docker** and **Ant Design**.
