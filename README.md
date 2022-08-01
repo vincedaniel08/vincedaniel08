@@ -21,7 +21,6 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=vincedaniel08.vincedaniel08)
  
 
-
 - ✨ Crafted last of our team [DC Monorack](https://dcmonorack.netlify.app) Ecommerce;
 - 🌱 I’m currently learning **API**, **Docker** and **Ant Design**.
 - 👨‍💻 All of my public speaking is available at [my talks page](https://vincedaniel.netlify.app).
