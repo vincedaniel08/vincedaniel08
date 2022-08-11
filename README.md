@@ -53,12 +53,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript                 30 hrs 24 mins  ███████████████████▓░░░░░   79.32 %
-Batchfile                  3 hrs 33 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
-INI                        2 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-Nginx configuration file   42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-JSON                       29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Bash                       28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+JavaScript                 41 hrs 58 mins  ███████████████████████▒░   93.57 %
+Batchfile                  1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+JSON                       45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Other                      28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
