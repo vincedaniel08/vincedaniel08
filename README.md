@@ -13,15 +13,15 @@
  <!-- - 🔭 I’m working on **ed-care** as **Front End Developer**. -->
  
  
- <a href="https://www.youtube.com/c/BitTechie">
+<!--  <a href="https://www.youtube.com/c/BitTechie">
  <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCrNFKNo8y7ndK777jFFSy6A&key=AIzaSyBgwnVnSu1aUTVGmSxec1m_jeHC3tEnJFY"/>
 </a>
 
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=vincedaniel08.vincedaniel08)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=vincedaniel08.vincedaniel08) -->
 
 - ✨ Crafted last of our team [San Pedro Health Center](https://sanpedro-health-center.vincedaniel.me/) Appointment;
-- 🌱 I’m currently learning **API**, **Docker**, **Laravel** and **Ant Design**.
+- 🌱 I’m currently learning **PWA**, **Docker** and  **Laravel**.
 - 👨‍💻 All of my public speaking is available at [my talks page](https://vincedaniel.netlify.app).
 - 💬 Ask me about **React, React Native,** and **Programming** <a href="https://twitter.com/intent/follow?screen_name=bit_" target="_blank"> on Twitter!</a>
 
