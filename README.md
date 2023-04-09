@@ -20,7 +20,7 @@
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=vincedaniel08.vincedaniel08) -->
 
-- ✨ Crafted last of our team [Admin PaSan: Patnubay at]([https://sanpedro-health-center.vincedaniel.me/](https://admin-patnubay-at-sanggunian-center-for-bul-su-bustos.vercel.app/login)])) Sanggunihan Center.
+- ✨ Crafted last of our team [Admin PaSan: Patnubay at](https://sanpedro-health-center.vincedaniel.me/](https://admin-patnubay-at-sanggunian-center-for-bul-su-bustos.vercel.app/login)) Sanggunihan Center.
 - 🌱 I’m currently learning **PWA**, **Docker** and  **Laravel**.
 - 👨‍💻 All of my public speaking is available at [my talks page](https://vincedaniel.me).
 <!-- - 💬 Ask me about **React, React Native,** and **Programming** <a href="https://twitter.com/intent/follow?screen_name=bit_" target="_blank"> on Twitter!</a> -->
