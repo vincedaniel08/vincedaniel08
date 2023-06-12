@@ -23,9 +23,9 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=vincedaniel08.vincedaniel08) -->
 
 - ✨ Crafted last of our team [BitdeoCall](http://bitdeocall.vincedaniel.me/).
-- 🌱 I’m currently learning **PWA**, **Docker** and  **Laravel**.
+- 🌱 I’m currently learning **PWA**, **Laravel** and  **Socket**.
 - 👨‍💻 All of my public speaking is available at [my talks page](https://vincedaniel.me).
-<!-- - 💬 Ask me about **React, React Native,** and **Programming** <a href="https://twitter.com/intent/follow?screen_name=bit_" target="_blank"> on Twitter!</a> -->
+- 💬 Ask me about **React, React Native,** and **Programming** <a href="https://twitter.com/intent/follow?screen_name=vincedaniel20" target="_blank"> on Twitter!</a>
 
 
 <hr />
