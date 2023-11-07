@@ -55,11 +55,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                      5 hrs 5 mins    ███████████▓░░░░░░░░░░░░░   47.33 %
-Blade Template             2 hrs 26 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.72 %
-Bash                       1 hr 15 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-PHP                        49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-Nginx configuration file   32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Other                      5 hrs 5 mins    ███████████▓░░░░░░░░░░░░░   46.59 %
+Blade Template             2 hrs 26 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.36 %
+Bash                       1 hr 19 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
+PHP                        49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+Nginx configuration file   32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 ```
 
 <!--END_SECTION:waka-->
