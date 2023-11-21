@@ -53,11 +53,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              5 hrs 40 mins   ████████████░░░░░░░░░░░░░   48.61 %
-JavaScript       4 hrs 36 mins   ██████████░░░░░░░░░░░░░░░   39.59 %
-Bash             55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
-JSON             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-SQL              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
