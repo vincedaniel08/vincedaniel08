@@ -19,7 +19,6 @@
 
 
 
-
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=vincedaniel08.vincedaniel08) -->
 
 - ✨ Crafted last of our team [BitdeoCall](http://bitdeocall.vincedaniel.me/).
