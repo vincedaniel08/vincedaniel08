@@ -24,6 +24,7 @@
 - 👨‍💻 All of my public speaking is available at [my talks page](https://vincedaniel.me).
 - 💬 Ask me about **React, React Native,** and **Programming** <a href="https://twitter.com/intent/follow?screen_name=vincedaniel20" target="_blank"> on Twitter!</a>
 
+
 <hr />
 
 #### The Tools I use
