@@ -3,7 +3,7 @@
   
 :mailbox: Reach me out!
 <br/><br/>
- [![Mail Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vincedaniel.me)
+ [![Mail Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vincedaniel.com)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:vincedaniel080808@gmail.com)
 [![Mail Badge](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@vincedanieldeleon)
