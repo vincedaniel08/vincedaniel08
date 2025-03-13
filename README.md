@@ -1,5 +1,5 @@
 
-## Hi I'm Vince Daniel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" height="20px" alt="hi">
+## Hi I'm Vince Daniel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" height="20px" alt="hi"> <img src="https://media.tenor.com/7IuD00V8m7kAAAAC/bitcoin-btc.gif" width="20px" height="20px" alt="bitcoin">
   
 :mailbox: Reach me out!
 <br/><br/>
@@ -24,7 +24,7 @@
 
 - ✨ Crafted last of our team [BitdeoCall](http://bitdeocall.vincedaniel.me/).
 - 🌱 I’m currently learning **Web 3**, **Blockchain** and  **Vue js**.
-- 👨‍💻 All of my public speaking is available at [my talks page](https://vincedaniel.me).
+- 👨‍💻 All of my public speaking is available at [my talks page](https://vincedaniel.com).
 - 💬 Ask me about **React, React Native,** and **Programming** <a href="https://twitter.com/intent/follow?screen_name=vincedaniel20" target="_blank"> on Twitter!</a>
 
 
