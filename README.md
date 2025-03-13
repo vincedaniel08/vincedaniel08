@@ -46,7 +46,7 @@
  
 <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="figma" width="32" height="32"/>
 <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="32" height="32"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" alt="netlify" width="32" height="32"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" alt="netlify" width="42" height="32"/>  
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32"/>
  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="32" height="32"/>
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="sass" width="50" height="32"/>
