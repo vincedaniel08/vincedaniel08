@@ -41,12 +41,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="32" height="32"/>
 
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="32" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="32" height="32"/> 
   <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-official.svg" alt="cloudflare" width="32" height="32"/>
  
 <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="figma" width="32" height="32"/>
 <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="32" height="32"/>
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="32" height="32"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" alt="netlify" width="32" height="32"/>  
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32"/>
  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="32" height="32"/>
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="sass" width="50" height="32"/>
