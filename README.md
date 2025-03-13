@@ -1,5 +1,6 @@
 
-## Hi I'm Vince Daniel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" height="20px" alt="hi"> <img src="https://media.tenor.com/7IuD00V8m7kAAAAC/bitcoin-btc.gif" width="20px" height="20px" alt="bitcoin">
+## Hi I'm Vince Daniel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" height="20px" alt="hi"> 
+<img src="[https://media.tenor.com/7IuD00V8m7kAAAAC/bitcoin-btc.gif](https://media.tenor.com/DXt_N1K0pEgAAAAi/bitcoin-cryptocurrency.gif)" width="20px" height="20px" alt="bitcoin">
   
 :mailbox: Reach me out!
 <br/><br/>
