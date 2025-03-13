@@ -1,7 +1,7 @@
 
 ## Hi I'm Vince Daniel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" height="20px" alt="hi"> 
-<img src="[https://media.tenor.com/7IuD00V8m7kAAAAC/bitcoin-btc.gif](https://media.tenor.com/DXt_N1K0pEgAAAAi/bitcoin-cryptocurrency.gif)" width="20px" height="20px" alt="bitcoin">
-  
+<div class="tenor-gif-embed" data-postid="23729186" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/bitcoin-btc-blazzord-satoshi-hodl-gif-23729186">Bitcoin Btc GIF</a>from <a href="https://tenor.com/search/bitcoin-gifs">Bitcoin GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ 
 :mailbox: Reach me out!
 <br/><br/>
  [![Mail Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vincedaniel.com)
