@@ -1,8 +1,7 @@
-## Hi I'm Vince Daniel 
-<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" height="20px" alt="hi">
-<a href="https://tama.meme/token/0x90aef2b3bcbb9538bcda402b1c154fbffbc4f9d2" target="_blank">
-  <img src="https://media.tenor.com/aDozr1-R2n0AAAAj/bitcoin.gif" width="20px" height="20px" alt="bitcoin">
-</a
+## Hi I'm Vince Daniel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" height="20px" alt="hi"><a href="https://tama.meme/token/0x90aef2b3bcbb9538bcda402b1c154fbffbc4f9d2" target="_blank"><img src="https://media.tenor.com/aDozr1-R2n0AAAAj/bitcoin.gif" width="20px" height="20px" alt="bitcoin"></a>
+
+  
+
 
  
 :mailbox: Reach me out!
