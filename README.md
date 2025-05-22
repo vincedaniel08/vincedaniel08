@@ -61,11 +61,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              6 hrs 49 mins   █████████▓░░░░░░░░░░░░░░░   38.92 %
-JavaScript       4 hrs 59 mins   ███████░░░░░░░░░░░░░░░░░░   28.50 %
-Python           4 hrs 13 mins   ██████░░░░░░░░░░░░░░░░░░░   24.12 %
-Blade Template   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-Bash             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+JavaScript                 5 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.67 %
+PHP                        4 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   23.58 %
+Python                     3 hrs 49 mins   █████░░░░░░░░░░░░░░░░░░░░   19.91 %
+YAML                       1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+Nginx configuration file   1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
 ```
 
 <!--END_SECTION:waka-->
