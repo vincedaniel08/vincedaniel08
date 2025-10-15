@@ -14,7 +14,6 @@
 [![Mail Badge](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/vincedaniel08)  
  <!-- - 🔭 I’m working on **ed-care** as **Front End Developer**. -->
 
-
 <!--  <a href="https://www.youtube.com/c/BitTechie">
  <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCrNFKNo8y7ndK777jFFSy6A&key=AIzaSyBgwnVnSu1aUTVGmSxec1m_jeHC3tEnJFY"/>
 </a>
