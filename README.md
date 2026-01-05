@@ -58,7 +58,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP              40 mins         █████████▓░░░░░░░░░░░░░░░   38.65 %
+Blade Template   31 mins         ███████▓░░░░░░░░░░░░░░░░░   30.16 %
+JavaScript       24 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.00 %
+Bash             8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
 ```
 
 <!--END_SECTION:waka-->
