@@ -23,7 +23,7 @@
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=vincedaniel08.vincedaniel08) -->
 
-- ✨ Crafted last of our team [Crypto Signal Bot](vincedaniel.com).
+- ✨ Crafted last of our team [Ordering Management with Messenger](ricoandarlenekakanin.com).
 - 🌱 I’m currently learning **Python** and  **AI & ML**.
 - 👨‍💻 All of my public speaking is available at [my talks page](https://vincedaniel.com).
 - 💬 Ask me about **React, React Native,** and **Programming** <a href="https://twitter.com/intent/follow?screen_name=vincedaniel20" target="_blank"> on Twitter!</a>
